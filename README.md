@@ -1,6 +1,6 @@
 Dungeon Adventure Game
 
-Dungeon Adventure is a text-based role-playing game (RPG) where you explore a dungeon full of traps, monsters, and treasures. You begin at the dungeon entrance and must navigate through the rooms, fight monsters, collect items, and ultimately defeat all foes to win the game. The game ends either when you have vanquished every monster or when your health drops to zero (in which case, you lose).
+Dungeon Adventure is a text-based game where you explore a dungeon full of traps, monsters, and treasures. You begin at the dungeon entrance and must navigate through the rooms, fight monsters, collect items, and ultimately defeat all foes to win the game. The game ends either when you have vanquished every monster or when your health drops to zero (in which case, you lose).
 
 Gameplay
 Starting the Game
@@ -128,5 +128,6 @@ items.txt: Defines items.
 
 Format:
 ItemName|Description|Weight|RoomName
+
 you can easily customize the dungeon layout, the monsters, and the items without changing the C source code.
 
