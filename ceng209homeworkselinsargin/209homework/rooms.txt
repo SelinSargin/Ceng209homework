@@ -1,0 +1,6 @@
+Entrance|A dark and damp dungeon entrance.|0|NULL|NULL|Library|Hallway
+Hallway|A long hallway with flickering torches.|5|Treasure Room|Deep Cave|Entrance|NULL
+Treasure Room|A room filled with glittering treasures.|2|NULL|Hallway|NULL|Armory
+Armory|A room with racks of weapons and armor.|5|NULL|NULL|Treasure Room|NULL
+Deep Cave|A cave deep underground, you can smell danger.|10|Hallway|NULL|NULL|NULL
+Library|A dusty old library filled with ancient tomes.|2|NULL|NULL|NULL|Entrance

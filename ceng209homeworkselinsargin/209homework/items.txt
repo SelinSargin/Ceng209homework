@@ -1,0 +1,6 @@
+Sword|A sharp blade.|5|Entrance
+Potion|A healing potion that restores 50 health.|1|Hallway
+Durability Potion|This potion grants immunity to the next trap you step on.|1|Library
+Potion|A healing potion that restores 50 health.|1|Treasure Room
+Helmet|A sturdy helmet that reduces incoming damage by 2.|3|Armory
+Katana|A finely crafted katana that deals more damage than a sword.|4|Deep Cave

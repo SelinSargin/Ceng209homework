@@ -1,0 +1,5 @@
+Goblin|A sneaky little monster.|20|5|Hallway
+Zombie|A shambling undead creature.|22|5|Treasure Room
+Rat|A small but aggressive rat.|10|2|Armory
+Giant|A huge and fearsome giant.|40|10|Deep Cave
+Spider|A giant spider with venomous fangs.|15|4|Library
